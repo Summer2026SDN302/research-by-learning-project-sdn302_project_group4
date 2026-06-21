@@ -6,7 +6,7 @@ Dự án học tiếng Anh IELTS tích hợp AI.
 ## Liên kết dự án
 
 - Jira: [Jira board của nhóm](https://knightdragon184.atlassian.net/jira/software/projects/DEV/boards/2)
-- SRS: [Tài liệu SRS của nhóm](https://docs.google.com/document/d/1eY0ko-emSLsJUrF0UbSFMaNeRqPMYBg_/edit)
+- SRS: [Tài liệu SRS của nhóm](https://docs.google.com/document/d/1xxVmo3fKyjVYv26wnMUgjPBxrnSdjT2p85UtQNA7IMY/edit?usp=sharing)
 
 - Overleaf: [Link Overleaf của nhóm](https://www.overleaf.com/read/zfnjhyvpcwwp#999b02)
 
