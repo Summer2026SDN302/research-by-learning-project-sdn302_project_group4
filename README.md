@@ -10,6 +10,8 @@ Dự án học tiếng Anh IELTS tích hợp AI.
 
 - Overleaf: [Link Overleaf của nhóm](https://www.overleaf.com/read/zfnjhyvpcwwp#999b02)
 
+- Link Deploy: [Link Deploy của nhóm]()
+
 ## Mục tiêu nghiên cứu & phạm vi đề tài
 
 Dự án tập trung vào nghiên cứu và ứng dụng Trí tuệ Nhân tạo (AI) cùng các kỹ thuật hệ thống hiện đại để xây dựng một nền tảng học IELTS thông minh, có khả năng hỗ trợ đánh giá, phản hồi và cá nhân hóa lộ trình học tập cho người dùng. Hàm lượng nghiên cứu của đề tài nằm ở ba hướng chính:
