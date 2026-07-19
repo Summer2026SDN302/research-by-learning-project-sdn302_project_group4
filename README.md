@@ -10,6 +10,10 @@ Dự án học tiếng Anh IELTS tích hợp AI.
 
 - Overleaf: [Link Overleaf của nhóm](https://www.overleaf.com/read/zfnjhyvpcwwp#999b02)
 
+- Paper Draft: [Bản thảo bài báo khoa học (Paper Draft)](docs/paper_draft.md)
+
+- Google Drive Paper Draft: [Thư mục tài liệu của nhóm](https://drive.google.com/drive/folders/1urDFKghlIHYq8umarsMMz3xHF15hPWYZ?usp=sharing)
+
 - Link Deploy: [Link Deploy của nhóm]()
 
 ## Mục tiêu nghiên cứu & phạm vi đề tài
